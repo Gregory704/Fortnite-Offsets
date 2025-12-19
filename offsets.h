@@ -17,6 +17,7 @@ PlayerArray = 0x2C8
 PlayerController = 0x30
 PlayerInput = 0x428
 AcknowledgedPawn = 0x358
+WeaponData = 0x698
 PlayerState = 0x2D0
 CharacterMovement = 0x338
 Mesh = 0x330
